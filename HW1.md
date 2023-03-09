@@ -7,4 +7,9 @@
    
     (a) have all three feature so it's best suited for machine learning.
 2. (d)
-3. 
+3. (c) ?
+4. (b) ?
+5. (c)
+6. (a)
+7. (d)
+8. 
