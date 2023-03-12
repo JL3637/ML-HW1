@@ -4,7 +4,7 @@ import random
 filename = 'data.txt'
 
 x_vector_array = np.ones([256, 11])
-x0 = 0.1126
+x0 = 1
 y_array = np.zeros(256)
 with open(filename) as file:
     a = 0
