@@ -7,13 +7,13 @@
    
     (a) have all three feature so it's best suited for machine learning.
 2. (d)<br>
-   <img src="./Q2.jpg" style="zoom:100%" /><br>
+   <img src="./Q2.jpg" style="zoom:175%" /><br>
 3. (c)<br>
    <img src="./Q3.png" style="zoom:100%" /><br>
 4. (b)<br>
-   <img src="./Q4.jpg" style="zoom:100%" /><br>
+   <img src="./Q4.jpg" style="zoom:175%" /><br>
 5. (c)<br>
-   <img src="./Q5.jpg" style="zoom:100%" /><br>
+   <img src="./Q5.jpg" style="zoom:125%" /><br>
 6. (a)<br>
    Explain: Because recommender problem needs to learn from real number rating which is a continuous value by some known rating data, so supervised regression best describes the associated learning problem.
 7. (b)<br>
@@ -27,7 +27,7 @@
 11. (a)<br>
     <img src="./Q11.jpg" style="zoom:100%" /><br>
 12. (d)<br>
-    <img src="./Q12.jpg" style="zoom:100%" /><br>
+    <img src="./Q12.jpg" style="zoom:150%" /><br>
 13. (b)
 14. (a)
 15. (d)
@@ -36,6 +36,8 @@
 18. (d)
 19. (e)
 20. (c)
+<br>
+<br>
 ```Python
 import numpy as np
 import random
