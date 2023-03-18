@@ -39,7 +39,7 @@ for i in range(1000):
             w_vector = w_vector + y_array[r_seed] * x_vector_array[r_seed]
             update_num += 1
     update_num_array[i] = update_num
-    w0_array[i] = w_vector[0] * x0
+    w0_array[i] = w_vector[0] * x0      
     wrong_sign = 0
     for j in range(256):
         sign_for_wTx = np.sign(np.dot(w_vector, x_vector_array[j]))
